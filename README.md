@@ -6,11 +6,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Web Development  
--  **Learning :** Vue.js :vuejs:
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
+-  **Learning :** Vue.js
+-  **Hobbies :** Ball :basketball: | Video Game :video_game:
+-  **Fun fact :** I Wanted to be a programmer since i was 14 :grin:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
