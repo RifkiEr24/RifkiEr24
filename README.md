@@ -8,7 +8,6 @@
 -  **Working :** Web Development  
 -  **Learning :** Vue.js
 -  **Hobbies :** Ball :basketball: | Video Game :video_game:
--  **Fun fact :** I Wanted to be a programmer since i was 14 :grin:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
